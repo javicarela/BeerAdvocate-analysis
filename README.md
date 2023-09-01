@@ -2,6 +2,7 @@
 
 The objective of this analysis is to answer a series of questions related to a dataset of beers.
 The dataset to be analyzed is a file containing 1.5 million beer ratings made by Beer Advocate https://www.beeradvocate.com/ .The data set is available at the following link <https://data.world/socialmediadata/beeradvocate>.
+The file is not in the repository because it is larger than 25 MB.
 
 The questions you are asked to answer are as follows: 
 1. If you had to choose three beers using only this data, by what criteria and which ones would you choose?
