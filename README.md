@@ -1,6 +1,5 @@
 # BeerAdvocate-analysis
-
-###The output of this repository is available here: https://rpubs.com/JaviCarela/Beer-reviews-analysis**
+###The output of this repository is available here: **https://rpubs.com/JaviCarela/Beer-reviews-analysis**
 
 The objective of this analysis is to answer a series of questions related to a dataset of beers.
 The dataset to be analyzed is a file containing 1.5 million beer ratings made by Beer Advocate https://www.beeradvocate.com/ .The data set is available at the following link <https://data.world/socialmediadata/beeradvocate>.
