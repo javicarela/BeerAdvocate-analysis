@@ -11,4 +11,4 @@ The questions you are asked to answer are as follows:
 3. How would you classify the beers? What are the characteristics of the classification?
 4. How do the factors (arome, taste, appearance, palette) influence the overall quality of a beer? Which is the most important?
 
-For data manipulation and drawing conclusions with data analysis tools we will use R software.
+For data manipulation and drawing conclusions with data analysis tools we will use the software R.
