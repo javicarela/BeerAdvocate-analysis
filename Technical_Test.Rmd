@@ -331,6 +331,7 @@ Based on the above, we are able to propose a GLM, taking as independent variable
 
 ```{r, message=FALSE , warning=0}
 summary(modelo1)
+#end
 ```
 
 Based on this model, we can conclude:
